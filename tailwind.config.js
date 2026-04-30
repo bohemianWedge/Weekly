@@ -15,6 +15,7 @@ export default {
         'text-muted': 'var(--text-muted)',
         'text-faint': 'var(--text-faint)',
         border: 'var(--border)',
+        'border-soft': 'var(--border-soft)',
         'border-strong': 'var(--border-strong)',
         conflict: 'var(--conflict)',
       },
